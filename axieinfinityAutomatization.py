@@ -12,7 +12,7 @@ EMAIL = "Почта"
 PASSWORD = "Пароль"
 IMAP_SERVER = "imap"
 wallet = "wallet"  
-RPC_URL = "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID"
+RPC_URL = "Инфуриа"
 
 # Подключаем Web3
 web3 = Web3(Web3.HTTPProvider(RPC_URL))
